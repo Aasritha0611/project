@@ -1,0 +1,78 @@
+
+body{
+  margin: 0;
+  background-color: #aee1e1;
+  text-align: center;
+  font-family: 'Big Shoulders display',cursive;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color: #845ec2;
+}
+
+.web{
+  font-family: 'Sacramento', serif;
+  font-size: 40px;
+  color: #ff5e78;
+}
+
+p{
+  font-family: 'Big Shoulders display',cursive;
+  font-size: 30px;
+  color: red;
+}
+
+h2{
+  font-family: 'Merriweather', cursive;
+  color: #6930c3;
+}
+
+h3{
+  font-family: 'Merriweather', cursive;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.laptop{
+  height: 200px;
+}
+
+.paint{
+  height: 200px;
+}
+
+.name{
+  color: blue;
+  font-family: 'Sacramento', serif;
+  font-size: 50px;
+}
+
+.footer-link{
+  font-family: 'Merriweather', cursive;
+  font-size: 20px;
+  color: green;
+}
+
+.btn{
+  font-family: 'Merriweather', cursive;
+  font-size: 20px;
+  color: green;
+}
